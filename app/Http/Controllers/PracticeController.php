@@ -15,4 +15,9 @@ class PracticeController extends Controller
     {
        return view('User.user');
     }
+
+    public function delete()
+    {
+
+    }
 }
