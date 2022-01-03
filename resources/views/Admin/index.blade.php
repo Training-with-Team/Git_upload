@@ -15,7 +15,7 @@
                         </div>
                     @endif
 
-                    {{ __('You are logged in! as ') }}
+                    {{ __('I am Loged in as a Admin') }}
                     {{ Auth::user()->name }}
                 </div>
             </div>
